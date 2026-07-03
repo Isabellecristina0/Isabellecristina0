@@ -8,7 +8,6 @@
 - 👩🏽‍💻Estou cursando técnico de desenvolvimento de Sistema
 - 💻Atualmente, estou estudando Python para back-end
 - 📩 Email para contato: isabellecristina8567@gmail.com
-- 
 <!--
 **Isabellecristina0/Isabellecristina0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
